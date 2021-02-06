@@ -1,0 +1,13 @@
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.exe
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.deps.json
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.json
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.runtimeconfig.dev.json
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\bin\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csprojAssemblyReference.cache
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfoInputs.cache
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.AssemblyInfo.cs
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.csproj.CoreCompileInputs.cache
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.dll
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.pdb
+F:\prog\NG\ChainOfResponsibility\ChainOfResponsibility\obj\Debug\netcoreapp3.1\ChainOfResponsibility.genruntimeconfig.cache
