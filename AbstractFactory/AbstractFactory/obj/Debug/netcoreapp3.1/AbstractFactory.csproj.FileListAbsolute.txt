@@ -1,0 +1,13 @@
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.exe
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.deps.json
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.json
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.runtimeconfig.dev.json
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\prog\NG\Abstarct Factory\Abstarct Factory\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.csprojAssemblyReference.cache
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfoInputs.cache
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.AssemblyInfo.cs
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.csproj.CoreCompileInputs.cache
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.dll
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.pdb
+F:\prog\NG\Abstarct Factory\Abstarct Factory\obj\Debug\netcoreapp3.1\AbstractFactory.genruntimeconfig.cache
