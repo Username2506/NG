@@ -4,16 +4,16 @@ using System.Text;
 
 namespace AbstractFactory
 {
-    class EnLanguage : ILanguage
+    class UaLanguageFactory : ILanguageFactory
     {
         public ISound sound()
         {
-            return new EnSound();
+            return new UaSound();
         }
 
         public ISubtitles subtitles()
         {
-            return new EnSubtitles();
+            return new UaSubtitles();
         }
     }
 }

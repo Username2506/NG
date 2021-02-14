@@ -6,8 +6,10 @@ namespace AbstractFactory
     {
         static void Main(string[] args)
         {
-            Movie movie = new Movie(new EnLanguage());
+            Movie movie = new Movie(new EnLanguageFactory());
+            movie.showMovie();
 
+            movie.setLanguage(new UaLanguageFactory());
             movie.showMovie();
         }
     }

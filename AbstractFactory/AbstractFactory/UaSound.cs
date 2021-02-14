@@ -4,9 +4,11 @@ using System.Text;
 
 namespace AbstractFactory
 {
-    interface ILanguage
+    class UaSound : ISound
     {
-        ISound sound();
-        ISubtitles subtitles();
+        public void playSound()
+        {
+
+        }
     }
 }

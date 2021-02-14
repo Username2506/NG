@@ -9,13 +9,13 @@ namespace AbstractFactory
         ISound sound;
         ISubtitles subtitles;
 
-        public Movie(ILanguage lang)
+        public Movie(ILanguageFactory lang)
         {
             sound = lang.sound();
             subtitles = lang.subtitles();
         }
 
-        public void setLanguage(ILanguage lang)
+        public void setLanguage(ILanguageFactory lang)
         {
             sound = lang.sound();
             subtitles = lang.subtitles();
